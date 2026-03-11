@@ -21,12 +21,6 @@ Email Me 👉 ✉️ **khushichandel1512@gmail.com** For Collaboration/Project o
 ![](https://nirzak-streak-stats.vercel.app/?user=khushisinghchandel&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushisinghchandel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
