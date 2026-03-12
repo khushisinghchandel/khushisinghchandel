@@ -4,7 +4,7 @@ A passionate Web Developer || Full-Stack Enthusiast || Problem Solver
 Email Me 👉 ✉️ **khushichandel1512@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** Enhancing Converge, a full-stack video conferencing platform with real-time AI-powered subtitles.
-- 🌱 **I’m currently learning:** The intricacies of Client-Server communication, focusing on HTTP/HTTPS request-response cycles
+- 🌱 **I’m currently learning:** The intricacies of Client-Server communication, focusing on request-response cycles.
 - 👯 **I’m looking to collaborate on:** Open-source MERN stack projects or innovative EdTech solutions.
 - 🤔 **I’m looking for help with:** Optimizing media streams and low-latency data handling
 - 💬 **Ask me about:** Collaboration, Tech Support
